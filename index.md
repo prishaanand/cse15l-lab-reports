@@ -3,5 +3,3 @@ Hello world !
 **prisha** anand
 
 tests *here*
-
-![image](Desktop/screenshot.png)
