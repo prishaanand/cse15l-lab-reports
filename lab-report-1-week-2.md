@@ -23,7 +23,10 @@ Then copy the public key to the server by logging in through ssh, and then runni
 Now it should allow you to log in with the key rather than your password. Below is a screenshot of a successful login using the ssh key. 
 ![Image](step5c.png)
 
-6. ***Optimizing Remote Running:*** To make remote running faster, you can use multiple commands in one line, write a command in quotes to run it directly on the remote server, and use the up arrow to rerun commands previously used in the terminal. Here is an example of running multiple commands in the same line. 
+6. ***Optimizing Remote Running:*** To make remote running faster, you can use multiple commands in one line, write a command in quotes to run it directly on the remote server, and use the up arrow to rerun commands previously used in the terminal. 
+
+In my case, I had to find the most plesant way to make a local edit to the `WhereAmI.java` class and copying it and running it in the remote server.
+I did this by first calling the command `ssh cs15lwi22aaa@ieng6.ucsd.edu "ls"` , which shows that the file is copied in the home directory. Then I used multiple line commands `cp WhereAmI.java OtherMain.java; javac OtherMain.java; java WhereAmI` to efficiently run the class on the remote server. In total, this took me around 4 keystrokes (2 for pasting each line of code and 2 for hitting the enter key to run it). This was much faster than before, where I would write each command on a seperate line and also log in to the server first before running the ls command. (which took around 12 keystrokes). So, implementing these tactics significantly reduced the amount of keystrokes needed to run differernt commands. Here is what my terminal looked like during this process:
 ![Image](step6.png)
 
 
