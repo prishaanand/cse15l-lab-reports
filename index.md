@@ -4,4 +4,8 @@
 
 **[Lab Report 2](https://github.com/prishaanand/cse15l-lab-reports/blob/main/lab-report-2-week-4.md)** 
 ---
-*1/27/22: Debugging*
+*1/27/22: debugging*
+
+**[Lab Report 3](https://github.com/prishaanand/cse15l-lab-reports/blob/main/lab-report-3-week-6.md)** 
+---
+*2/10/22: copying entire directories*
