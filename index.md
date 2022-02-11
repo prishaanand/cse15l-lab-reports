@@ -2,7 +2,7 @@
 ---
 *1/14/22: remote access tutorial*
 
-**[Lab Report 2](https://github.com/prishaanand/cse15l-lab-reports/blob/main/lab-report-2-week-4.md)** 
+**[Lab Report 2](lab-report-2-week-4.html)** 
 ---
 *1/27/22: debugging*
 
