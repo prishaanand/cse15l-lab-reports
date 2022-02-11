@@ -6,6 +6,6 @@
 ---
 *1/27/22: debugging*
 
-**[Lab Report 3](https://github.com/prishaanand/cse15l-lab-reports/blob/main/lab-report-3-week-6.md)** 
+**[Lab Report 3](lab-report-3-week-6.html)** 
 ---
 *2/10/22: copying entire directories*
