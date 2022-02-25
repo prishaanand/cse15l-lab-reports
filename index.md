@@ -9,3 +9,7 @@
 **[Lab Report 3](lab-report-3-week-6.html)** 
 ---
 *2/10/22: copying entire directories*
+
+**[Lab Report 4](lab-report-4-week-8.html)**
+---
+*2/25/22: analyzing markdownparse* 
