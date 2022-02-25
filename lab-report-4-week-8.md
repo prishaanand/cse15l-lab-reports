@@ -1,9 +1,9 @@
 ## Analyzing MarkdownParse 
 **Group Panther** 
 
-Link to my own repo: https://github.com/prishaanand/markdown-parse.git
+Link to my own MarkdownParse: [repository](https://github.com/prishaanand/markdown-parse.git)
 
-Link to reviewed repo: https://github.com/ShashankVenkatramani/markdown-parse.git 
+Link to reviewed MarkdownParse: [repository](https://github.com/ShashankVenkatramani/markdown-parse.git)
 
 ### Snippet 1
 The code provided in Snippet 1 should produce output similar to that shown in the image below. 
